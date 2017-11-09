@@ -48,8 +48,9 @@ Tatyana Milanova
                 <p>
                     <a title="ASP.NET-MVC-SwitchYourHome" href="https://github.com/tanyta78/ASP.NET-MVC-SwitchYourHome" target="_blank">ASP.NET-MVC-SwitchYourHome
                 </a>
-                <a title="ASP.NET-MVC-BLOG" href="https://github.com/tanyta78/ASP.NET-MVC-BLOG" target="_blank">ASP.NET-MVC-BLOG</a>
-                    
+                    </p>
+                <p>
+                <a title="ASP.NET-MVC-BLOG" href="https://github.com/tanyta78/ASP.NET-MVC-BLOG" target="_blank">ASP.NET-MVC-BLOG</a>  
                 </p>
             </td>
         </tr>
