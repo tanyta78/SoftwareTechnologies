@@ -44,7 +44,7 @@ Tatyana Milanova
         </td>
         </tr>
         <tr>
-            <p>Defence Projects</p>
+          <td width="100%">  <p>Defence Projects</p></td>
          </tr>
         <tr>
             <td width="50%">
