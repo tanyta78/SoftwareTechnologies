@@ -43,10 +43,8 @@ Tatyana Milanova
         <p><a title="C#: ASP.NET MVC " href="https://github.com/tanyta78/SoftwareTechnologies" target="_blank">C#: ASP.NET MVC</a></p>
         </td>
         </tr>
-        <tr>
-          <td> <p>Defence Projects</p></td>
-         </tr>
-        <tr>
+        <tr><td colspan="3" align="center" width="100%"><p>Defence Projects</p></td></tr>
+         <tr>
             <td width="50%">
                 <p><a title="ASP.NET-MVC-SwitchYourHome" href="https://github.com/tanyta78/ASP.NET-MVC-SwitchYourHome" target="_blank">ASP.NET-MVC-SwitchYourHome</a></p>
               </td>
