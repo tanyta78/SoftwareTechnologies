@@ -47,7 +47,9 @@ Tatyana Milanova
             <td>
                 <p>Defence Projects</p>
             </td>
-             <td width="50%">
+        </tr>
+        <tr>
+            <td width="50%">
                 <p><a title="ASP.NET-MVC-SwitchYourHome" href="https://github.com/tanyta78/ASP.NET-MVC-SwitchYourHome" target="_blank">ASP.NET-MVC-SwitchYourHome</a></p>
               </td>
         <td colspan="2" width="50%">
